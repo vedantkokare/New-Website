@@ -1,0 +1,101 @@
+body {
+    overflow-x: hidden;
+}
+
+.nav-logo {
+    font-weight: bold;
+}
+
+.nav-txt {
+    color: rgb(254, 254, 254) !important;
+    margin-left: 2em;
+    font-size: 1.1em;
+}
+
+.nav-txt:hover {
+    color: aqua !important;
+}
+
+.Section_title {
+    border-bottom: 4px solid orange;
+    padding-bottom: 0.5em;
+    color: white;
+}
+
+.box {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 4em;
+}
+
+.About {
+    background-image: url(img/Amongus.jpg);
+    background-size: cover;
+    margin-top: 3em;
+}
+
+.about-txt {
+    color: white;
+    padding: 2em;
+    font-size: 1.2em;
+}
+
+.brand_name {
+    font-size: 2em;
+}
+
+.footer-logo {
+    width: 5em;
+    height: 5em;
+}
+
+.footer-box {
+    padding: 2em;
+    background-color: black;
+}
+
+.social-logo {
+    font-size: 2em !important;
+    padding: 0.5em 0.5em 0 3em;
+}
+
+.end {
+    text-align: center;
+    background-color: rgb(8, 8, 8);
+    padding: 15px;
+}
+
+/* About Page CSS */
+
+.B-Logo {
+    height: 24em !important;
+    width: 24em !important;
+}
+
+.intro {
+    font-size: 1.2em;
+    color: white;
+}
+
+.store-view {
+    height: 30em;
+}
+
+/* contact US Page*/
+
+.icons {
+    font-size: 75px !important;
+    margin: 5px;
+    color: #ffb606;
+}
+
+/* AI-Bot */
+.ai-bot{
+    position: fixed;
+    bottom: 20px;
+}
+.ai-bot-img{
+    height: 6em;
+    width: 6em;
+}
+
